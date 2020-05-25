@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589901430 source:c:\users\adam\desktop\2018wega\wega\main.cpp
+	<iostream>
+	<fstream>
+

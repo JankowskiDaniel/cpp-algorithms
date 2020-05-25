@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590172559 source:c:\users\adam\desktop\informatyka arkusze\2017czerwiec\punkty\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589917809 source:c:\users\adam\desktop\2019infa\liczbyzad3\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

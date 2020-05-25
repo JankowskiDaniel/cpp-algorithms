@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590006102 source:c:\users\adam\desktop\informatyka arkusze\2017 praktyka\wielokaty\wielokatyxd\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+

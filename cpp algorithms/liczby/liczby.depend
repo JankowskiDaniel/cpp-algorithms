@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589912497 source:c:\users\adam\desktop\2019infa\liczby\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+
